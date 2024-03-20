@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Desktop/java script basic"
+		},
+		{
+			"path": "../../Desktop/html tutorial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Applications"
+	}
+}
